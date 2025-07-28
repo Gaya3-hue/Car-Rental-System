@@ -22,12 +22,14 @@ A Java-based console application simulating a real-world car rental service. Thi
    git clone https://github.com/Gaya3-hue/Car-Rental-System.git
    cd Car-Rental-System
 
-## Future Roadmap 🛤️
+## Screenshots
 
-🤝 Support multiple customers renting the same car simultaneously.
-⏰ Implement date-based pricing adjustments.
-🎨 Develop a graphical user interface (GUI) for enhanced user experience.
+### Home Page
+![Home Page](assets/screenshot1.jpg)
 
----
+### Booking Page
+![Booking Page](assets/screenshot2.jpg)
 
-Feel the thrill of renting and returning cars while mastering OOP concepts. Dive into the Car Rental System and drive your learning forward! 🚗💨
+### Admin Panel
+![Admin Panel](assets/screenshot3.jpg)
+
