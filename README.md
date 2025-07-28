@@ -39,3 +39,8 @@ A Java-based console application simulating a real-world car rental service. Thi
 B.Tech CSE (Cloud Computing) – SRM Institute of Science and Technology  
 GitHub: [@Gaya3-hue]()
 
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+
