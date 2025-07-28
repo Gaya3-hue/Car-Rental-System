@@ -1,22 +1,26 @@
-# 🚗 Car Rental System
+# Car Rental System
 
-Explore the world of car rentals with the **Car Rental System**, a Java-based console application that combines learning and simulation. 🌟
+A Java-based console application simulating a real-world car rental service. This project was developed to strengthen object-oriented programming concepts and demonstrate the practical application of core Java principles.
 
 ## Features
 
-🚀 Rent a Car: Experience the ease of renting cars through an interactive console.
-🔁 Return a Car: Effortlessly return previously rented cars and update availability.
-👥 Customer Management: Add new customers and maintain customer records.
-🚗 Car Management: Manage cars, brands, models, and pricing details.
-📝 Rental History: Keep track of rentals, customers, and rental durations.
+- **Rent a Car**: Allows customers to rent available cars by selecting models and duration.
+- **Return a Car**: Updates car availability and calculates rental duration.
+- **Customer Management**: Add and manage customer records.
+- **Car Inventory Management**: Manage details of available cars, including brand, model, and pricing.
+- **Rental History Tracking**: Maintain a record of past rentals, customers, and durations.
 
-## Getting Started
+## Technologies Used
 
-1. **Clone the Repo**: `git clone https://github.com/prabhatthakuryt/Car-Rental-System.git`
+- Java (OOP concepts)
+- IntelliJ IDEA (Development Environment)
 
-## Contributions Welcome! 🎉
+## How to Run
 
-Contribute to the project's growth. Open issues, submit pull requests, and collaborate with the community.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Gaya3-hue/Car-Rental-System.git
+   cd Car-Rental-System
 
 ## Future Roadmap 🛤️
 
