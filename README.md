@@ -33,3 +33,9 @@ A Java-based console application simulating a real-world car rental service. Thi
 ### Admin Panel
 ![Admin Panel](assets/screenshot3.jpg)
 
+## 👩‍💻 Author
+
+**A.L.V. Gayathri**  
+B.Tech CSE (Cloud Computing) – SRM Institute of Science and Technology  
+GitHub: [@Gaya3-hue]()
+
